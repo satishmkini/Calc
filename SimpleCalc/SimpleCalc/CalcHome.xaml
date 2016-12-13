@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SimpleCalc.CalcHome"
+             Title="Simple.UI">
+  
+  <StackLayout BackgroundColor="Silver">
+    
+   <Entry x:Name="Num1" Text="Num1" TextColor="Maroon" ></Entry>
+   <Entry x:Name="Num2" Text="Num2" TextColor="Maroon"></Entry>
+    
+   <Entry x:Name="Result" Text="Result"></Entry>
+    
+ <Button Text="Add" x:Name="Add" Clicked="Add_OnClicked" ></Button>
+ <Button Text="Sub" x:Name="Sub" Clicked="Sub_OnClicked" ></Button>
+ <Button Text="Mul" x:Name="Mul" Clicked="Mul_OnClicked" ></Button>
+ <Button Text="Div" x:Name="Div" Clicked="Div_OnClicked" ></Button>
+    
+</StackLayout>
+  
+</ContentPage>

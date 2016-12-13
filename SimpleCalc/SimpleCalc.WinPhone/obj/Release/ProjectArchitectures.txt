@@ -1,0 +1,2 @@
+D:\MobileDevOps\SimpleCalc\SimpleCalc.WinPhone\SimpleCalc.WinPhone.csproj;neutral
+D:\MobileDevOps\SimpleCalc\SimpleCalc\SimpleCalc.csproj;neutral

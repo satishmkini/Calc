@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\HockeySDK.AndroidBindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\HockeySDK\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\HockeySDK.AndroidBindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\HockeySDK.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\MobileDevOps\SimpleCalc\SimpleCalc.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

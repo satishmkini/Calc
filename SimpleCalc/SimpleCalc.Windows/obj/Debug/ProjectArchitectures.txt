@@ -1,0 +1,2 @@
+D:\Mukta\XTCDemo\SimpleCalc\SimpleCalc.Windows\SimpleCalc.Windows.csproj;neutral
+D:\Mukta\XTCDemo\SimpleCalc\SimpleCalc\SimpleCalc.csproj;neutral
