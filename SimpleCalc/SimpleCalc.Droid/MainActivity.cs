@@ -9,6 +9,9 @@ using Android.OS;
 using HockeyApp.Android;
 using Xamarin;
 using HockeyApp.Android.Metrics;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace SimpleCalc.Droid
 {
@@ -25,7 +28,8 @@ namespace SimpleCalc.Droid
             LoadApplication(new App());
 
             CrashManager.Register(this);
-            
+            MobileCenter.Start("5632dc3b-2bf0-4305-9109-3e88c58ca739", typeof(Analytics), typeof(Crashes));
+
         }
         void CheckForUpdates()
         {
